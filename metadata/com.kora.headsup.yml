@@ -3,8 +3,8 @@ Categories:
   - Navigation
 License: Apache-2.0
 AuthorName: Heads Up Team
-SourceCode: https://github.com/your-username/heads-up
-IssueTracker: https://github.com/your-username/heads-up/issues
+SourceCode: https://github.com/harvatechs/headsup-fdroid
+IssueTracker: https://github.com/harvatechs/headsup-fdroid/issues
 
 AutoName: Heads Up
 Summary: Real-time posture tracking, sensor HUD, and geospatial activity mapping
@@ -20,7 +20,7 @@ Description: |-
   * Offline-First & Private: Operates completely on-device without requiring third-party accounts or data harvesting.
 
 RepoType: git
-Repo: https://github.com/your-username/heads-up.git
+Repo: https://github.com/harvatechs/headsup-fdroid.git
 
 Builds:
   - versionName: 1.0.0
