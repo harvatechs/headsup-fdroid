@@ -1,0 +1,11 @@
+Heads Up is a modern, privacy-respecting posture awareness and geospatial logging application.
+
+Features:
+• Live Sensor HUD: Real-time device pitch, roll, and tilt detection.
+• Posture Guidance: Immediate visual feedback and optional haptic alerts when tilting downward excessively.
+• Geospatial Activity: Map your posture checks and tap events on OpenStreetMap.
+• Geohash Resolution: High-precision geospatial hashing for clustered location exploration.
+• Analytics & Insights: Hourly distributions, posture percentage breakdowns, and activity trends.
+• Offline-First & Private: Operates completely on-device without requiring third-party accounts or data harvesting.
+
+Heads Up is 100% Free and Open Source Software.

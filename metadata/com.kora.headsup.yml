@@ -1,0 +1,37 @@
+Categories:
+  - Health & Fitness
+  - Navigation
+License: Apache-2.0
+AuthorName: Heads Up Team
+SourceCode: https://github.com/your-username/heads-up
+IssueTracker: https://github.com/your-username/heads-up/issues
+
+AutoName: Heads Up
+Summary: Real-time posture tracking, sensor HUD, and geospatial activity mapping
+Description: |-
+  Heads Up is a modern, privacy-respecting posture awareness and geospatial logging application.
+
+  Features:
+  * Live Sensor HUD: Real-time device pitch, roll, and tilt detection.
+  * Posture Guidance: Immediate visual feedback and optional haptic alerts when tilting downward excessively.
+  * Geospatial Activity: Map your posture checks and tap events on OpenStreetMap.
+  * Geohash Resolution: High-precision geospatial hashing for clustered location exploration.
+  * Analytics & Insights: Hourly distributions, posture percentage breakdowns, and activity trends.
+  * Offline-First & Private: Operates completely on-device without requiring third-party accounts or data harvesting.
+
+RepoType: git
+Repo: https://github.com/your-username/heads-up.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: .
+    output: build/app/outputs/flutter-apk/app-foss-release.apk
+    build:
+      - $$FLUTTER$$ build apk --flavor foss --release
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1

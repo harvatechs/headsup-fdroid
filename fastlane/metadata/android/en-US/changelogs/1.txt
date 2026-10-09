@@ -1,0 +1,5 @@
+Initial release of Heads Up:
+• Real-time posture tracking and sensor HUD
+• OpenStreetMap tap and posture check-in logging
+• Offline-first guest profile support
+• Interactive analytics and posture distributions

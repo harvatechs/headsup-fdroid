@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057841670500",
+    "project_id": "heads-up-43f7c",
+    "storage_bucket": "heads-up-43f7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057841670500:android:15c316bb5c60cf904e3271",
+        "android_client_info": {
+          "package_name": "com.kora.headsup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGA08fFX_N6HA2bIVs0RkabH2-f5_Nklk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
